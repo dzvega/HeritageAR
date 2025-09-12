@@ -1,2 +1,9 @@
-# HeritageAR
-Heritage AR is an interactive platform that brings India’s iconic monuments to life through immersive 3D and AR experiences. It blends history, storytelling, and technology to preserve cultural heritage in an engaging way.
+# Heritage AR – Taj Mahal
+
+Experience the **Taj Mahal** like never before! This web-based prototype allows users to explore the iconic monument in **interactive 3D** and **AR**. Rotate, zoom, and examine the intricate architecture while listening to an **audio narration** that tells the history, significance, and beauty of this UNESCO World Heritage Site.  
+
+The project is built using **HTML, CSS, JavaScript, Model-Viewer**, and **WebXR**, ensuring smooth 3D and AR experiences across modern browsers.  
+
+**Demo Video:** [Paste your video link here]  
+
+This platform makes cultural heritage **accessible, engaging, and educational**, bringing one of the world’s most famous monuments directly to your screen.
