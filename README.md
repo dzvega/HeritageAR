@@ -7,3 +7,4 @@ The project is built using **HTML, CSS, JavaScript, Model-Viewer**, and **WebXR*
 **Demo Video:** [Paste your video link here]  
 
 This platform makes cultural heritage **accessible, engaging, and educational**, bringing one of the world’s most famous monuments directly to your screen.
+<img width="534" height="588" alt="Screenshot (686)" src="https://github.com/user-attachments/assets/bb627ecd-bf80-479f-b379-808d8e3fe46b" />
