@@ -16,17 +16,9 @@
       font-family: 'Nunito', sans-serif;
       text-align: center;
       transition: background-color 1s ease-in-out;
-      background-color: #6a1b9a;
+      background: linear-gradient(135deg, #6a11cb, #8e2de2); 
     }
 
-    h1 {
-      font-family: 'Playfair Display', serif;
-      font-weight: 700;
-      font-size: 34px;
-      margin: 20px 0 10px 0;
-      color: #fff3dc;
-      text-shadow: 0px 3px 10px rgba(0,0,0,0.6);
-    }
 
     model-viewer {
       width: 90%;
@@ -69,10 +61,18 @@
       border-radius: 12px;
       outline: none;
     }
+    .nav{
+      background-color:white;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
   </style>
 </head>
 <body id="pageBody">
-  <h1 id="pageTitle">Heritage AR</h1>
+  <div class="nav">
+    <img src="HeritageAR-removebg-preview(1).png" alt="HeritageAR logo" style="width:20vw;height:auto">
+  </div>
 
   <!-- 3D AR Viewer -->
   <model-viewer id="viewer" 
