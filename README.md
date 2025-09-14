@@ -1,6 +1,6 @@
 # Heritage AR – Taj Mahal
 
-SITE LINK  - (Prototype link )<a href="ttps://dzvega.github.io/HeritageAR/">HeritageAR</a>
+SITE LINK  - (Prototype link )<a href="https://dzvega.github.io/HeritageAR/">HeritageAR</a>
 
 Experience the **Taj Mahal** like never before! This web-based prototype allows users to explore the iconic monument in **interactive 3D** and **AR**. Rotate, zoom, and examine the intricate architecture while listening to an **audio narration** that tells the history, significance, and beauty of this UNESCO World Heritage Site.  
 
